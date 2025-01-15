@@ -21,3 +21,7 @@ Par rapport au SQL, le T-SQL ajoute les fonctionnalités suivantes :
     Éléments de programmation procédurale (boucle, conditions...);
     La possibilité de créer et d'utiliser des variables locales;
     Des fonctions de manipulations de chaîne de caractères, de dates et de calculs mathématiques.
+
+
+# Où est la table créer par la requête ?
+![sql path](https://github.com/user-attachments/assets/6a0c40e5-2f34-4fef-9736-095c6d2f095b)
